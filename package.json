@@ -1,0 +1,15 @@
+{
+ "name":"agentworlds-plugin-discordbridge",
+ "version":"1.0.0",
+ "main":"plugin.js",
+ "dependencies":{
+    "discord.js":"*"
+ },
+ "keywords":[
+    "plugin",
+    "discord",
+    "clippy",
+    "agent",
+    "worlds"
+ ]
+}
